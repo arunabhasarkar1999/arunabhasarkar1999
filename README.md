@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi , this is Arunabha Sarkar
 
-<!--
+
 **arunabhasarkar1999/arunabhasarkar1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a project of Smart Manufacturing and Industry 4.0 
+- 🌱 I’m currently preparing for GATE 2022
+- 👯 I’m looking to collaborate on my research activities
+- 💬 Ask me about soft skills, aptitude , start of a research
+- 📫 How to reach me: at arunabha.sarkar1999@gmail.com
+- 😄 Pronouns: joke
+- ⚡ Fun fact: coffee <3
+
