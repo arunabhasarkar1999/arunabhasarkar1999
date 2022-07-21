@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunabha Sarkar</h1>
-<h3 align="center">I am an undergraduate in Electrical Engineering with an interest in the Core field of our domain and wanted to give value to this world of science and technology. I am passionate about technology and strategizing product development, researching the target market segment, and implementing analytical skills in my domain.</h3>
+<h3 align="center">I am an undergraduate in Electrical Engineering with an interest in the different technical fields of our domain and wanted to give value to this world of science and technology. I am passionate about technology and strategizing product development, researching the target market segment, and implementing analytical skills in my domain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhasarkar1999&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhasarkar1999" /> </p>
 
