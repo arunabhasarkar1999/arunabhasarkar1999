@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhasarkar1999&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhasarkar1999" /> </p>
 
-- 🔭 I had worked on **Smart Manufacturing and Industry4.0**
+- 🔭 I am currently working as a Associate I - Software Engineer at **Capgemini Engineering**
 
-- 🌱 I’m currently learning **Data Analytics , Python , Full stack development**
+- 🌱 I’m currently learning **AWS , Python , DSA**
 
 - 👯 I’m looking to collaborate on **project work and research works**
 
