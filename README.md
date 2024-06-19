@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhasarkar1999&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhasarkar1999" /> </p>
 
-- 🔭 I am currently working as a Associate I - Software Engineer at **Capgemini Engineering**
+- 🔭 I am currently working as a Associate I - Software Engineer at **Capgemini**
 
-- 🌱 I’m currently learning **AWS , Python , DSA**
+- 🌱 Having experience of  **Reactjs , Python**
 
 - 👯 I’m looking to collaborate on **project work and research works**
 
