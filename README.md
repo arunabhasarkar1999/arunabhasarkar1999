@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arunabha Sarkar</h1>
-<h3 align="center"> Hello, I'm Arunabha Sarkar, a passionate Frontend Developer specialising in React.js and backend using Python with almost 2 years of professional experience. I thrive on crafting user-friendly, scalable, and visually appealing web applications.I had the experience of research internships at most premium institutes of India such as IIT, Patna and NIT Durgapur and had also done a knowledge internship from IISc, Bangalore .</h3>
+<h3 align="center"> Hello, I'm Arunabha Sarkar, a passionate Software Developer with almost 2.5 years of professional experience, specializing in both backend development using Python and frontend development with React.js. I thrive on building full-stack scalable, efficient, and user-friendly solutions.
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhasarkar1999&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhasarkar1999" /> </p>
 
-- 🔭 I am currently working as a Associate I - Software Engineer at **Capgemini**
+- 🔭 I am currently working as an Analyst - Python Backend at **Capgemini**
 
 - 🌱 Having experience of  **Reactjs , Python**
 
 - 👯 I’m looking to collaborate on **project work and research works**
 
-- 💬 Ask me about **research and analysis**
+- 💬 Ask me about **Backend tech stacks**
 
 - 📫 How to reach me **arunabha.sarkar1999@gmail.com**
 
