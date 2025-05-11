@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Arunabha Sarkar</h1>
-<h3 align="center"> Hello, I'm Arunabha Sarkar, a passionate Software Developer with almost 2.5 years of professional experience, specializing in both backend development using Python and frontend development with React.js. I thrive on building full-stack scalable, efficient, and user-friendly solutions.
+<h3 align="center"> Hello, I'm Arunabha Sarkar, a passionate Software Developer with almost 2.5 years of professional experience, specializing in both backend development using Python and Gen AI. I thrive on building full-stack scalable, efficient, and user-friendly solutions.
 .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhasarkar1999&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhasarkar1999" /> </p>
 
-- 🔭 I am currently working as an Analyst - Python Backend at **Capgemini**
+- 🔭 I am currently working as an SDE - at **Samsung SDS**
 
-- 🌱 Having experience of  **Reactjs , Python**
+- 🌱 Having experience of  **Django , Python ,GenAI**
 
-- 👯 I’m looking to collaborate on **project work and research works**
+- 👯 I’m looking to collaborate on **Technical Works**
 
 - 💬 Ask me about **Backend tech stacks**
 
 - 📫 How to reach me **arunabha.sarkar1999@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PwVLZHOywb_-fA1wMxaZ6MdtidADtGoI/view?usp=sharing](https://drive.google.com/file/d/1PwVLZHOywb_-fA1wMxaZ6MdtidADtGoI/view?usp=sharing)
 
 - ⚡ Fun fact **<coffee**
 
