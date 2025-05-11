@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunabha Sarkar</h1>
-<h3 align="center"> Hello, I'm Arunabha Sarkar, a passionate Software Developer with almost 2.5 years of professional experience, specializing in both backend development using Python and Gen AI. I thrive on building full-stack scalable, efficient, and user-friendly solutions.
+<h3 align="center"> Hello, I'm Arunabha Sarkar, a passionate Software Developer with almost 2.5+ years of professional experience, specializing in both backend development using Python and Gen AI. I thrive on building full-stack scalable, efficient, and user-friendly solutions.
 .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhasarkar1999&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhasarkar1999" /> </p>
